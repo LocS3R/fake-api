@@ -1,0 +1,16 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "English": "Hello",
+      "Vietnamese": "Xin chao"
+    }
+  ],
+  "vocab": [
+    {
+      "id": 1,
+      "English": "Hello",
+      "Vietnamese": "Xin chao"
+    }
+  ]
+}
